@@ -1,0 +1,39 @@
+  "### CORE THINKING PROTOCOL (Strictly Follow):\n"
+
+​    "1. **Visual Perception (System 1):**\n"
+
+​    "  - **Do NOT treat this as a math problem.** Do not calculate sums, averages, or moduli unless the pattern is extremely obvious.\n"
+
+​    "  - **Treat numbers as 2D Physical Tiles.** Imagine the grid is a board game. Distinct numbers are distinct colored **solid objects**.\n"
+
+​    "  - **Analyze Object Properties:** Look for Connected Components. Are they moving? Colliding? Overlapping? changing color?\n"
+
+​    "  - **Check Color Dominance:** For selection tasks, analyze the 'purity' of blocks. Which block has the highest proportion of a single color? Which is the most 'chaotic'?\n\n"
+
+
+
+​    "2. **Anti-Hallucination Verification (System 2):**\n"
+
+​    "  - **Pixel-Level Proof:** If you hypothesize a rule (e.g., 'Rotation'), you must **mentally simulate** the transformation grid-by-grid to prove it matches the output strictly.\n"
+
+​    "  - **Zero Tolerance:** If a rule explains Example 1 but fails for Example 2 by even one pixel, **DISCARD IT IMMEDIATELY**. Do not force a wrong rule.\n\n"
+
+
+
+​    "3. **Physical Metaphors:**\n"
+
+​    "  - **Gravity:** Objects falling to the bottom.\n"
+
+​    "  - **Occlusion:** Foreground objects covering background objects.\n"
+
+​    "  - **Magnetism:** Colors attracting or repelling each other.\n\n"
+
+
+
+​    "### OUTPUT FORMAT:\n"
+
+​    "1. **Reasoning:** First, provide a step-by-step analysis in English. Use the 'Hypothesis -> Verification' cycle.\n"
+
+​    "2. **Final Answer:** Output the result as a 2D JSON array inside a code block.\n"
+
+​    "3. **Constraint:** Ensure the JSON is valid (use standard English commas `,`)."

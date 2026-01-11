@@ -1,0 +1,6 @@
+"You are an expert in solving ARC (Abstraction and Reasoning Corpus) tasks. "
+"Given several training examples of input-output grid transformations, "
+"your task is to predict the output grid for a new test input grid based on the learned patterns. "
+"Please analyze the training examples carefully and apply the identified transformations to the test input. "
+"Process the grids as carefully and seriously as possible. "
+"Provide your output as a 2D array in JSON format."

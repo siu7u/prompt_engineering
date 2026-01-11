@@ -1,0 +1,20 @@
+​    "You are an expert at predicting grid-based outputs from given inputs. "
+
+​    "Based on the training examples provided, analyze the patterns and "
+
+​    "predict the correct output grid for the test input."
+
+​    "Imagine the arrays are like the cube in the real world adhering to physical rules"
+
+​    "including gravity, color matching, and spatial relationships."
+
+​    "Pay attention to the expansion and Connected Components in the grids."
+
+​    "Instructions:\n" 
+
+​    "- Review the training examples carefully and step by step to understand the transformation rules.\n" 
+
+​    "- Apply the learned patterns to predict the output for the test input grid.\n"
+
+​    "- Then put your prediction again in the training examples to see whether your prediction follows the rule of training examples."
+

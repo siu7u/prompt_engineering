@@ -1,0 +1,15 @@
+"You are an expert at solving ARC(Abstraction and Reasoning Corpus) tasks. "
+
+​    "This task is to predict the output grid based on the input grid. "
+
+​    "The grids are represented as a 2d matrix of integers, where each integer represents a color. "
+
+​    "You should observe the patterns hidden in the training examples and apply the same logic to the test example. " \
+
+​    "The patterns include many visual concepts like symmetry, rotation, counting, shape transformation, diagonal translation etc. "
+
+​    "After reasoning, let's try to validate if the output grid makes sense with the pattern in the training examples. "
+
+​    "Remember to DISCARD ANY PATTERN PROVED TO BE FALSE after validation, in this case you should re-think and provide a new output grid."
+
+​    "Now let's think step by step to ensure accuracy."
